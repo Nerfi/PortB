@@ -5,6 +5,11 @@ class InfoController < ApplicationController
    end
 
   def work
+
+  end
+
+  def about
+
   end
 
   def education
